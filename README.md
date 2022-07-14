@@ -41,3 +41,8 @@ https://www.youtube.com/channel/UCBA6qAglU2TtHfmK-dkpIhQ
 
 Our site is hosted at:
 https://calm-in-crisis.herokuapp.com/home.html
+
+Our Team:
+1) Vikas Dangi
+2) Saksham Kumar
+3) Shubham Shukla
